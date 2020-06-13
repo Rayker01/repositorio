@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aplicacionproyectoale</string>
+    <string name="cedula">Ejem: 0103346754</string>
+    <string name="Nombres">Gloria Alexandra</string>
+    <string name="Apellidos">Martinez Calle</string>
+    <string name="edad">25</string>
+    <string name="celular">Ejem: 0923654789</string>
+
+</resources>
