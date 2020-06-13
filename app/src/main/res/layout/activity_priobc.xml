@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".priobc">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RESPUESTA:"
+            android:textColor="@android:color/background_dark"
+            android:textSize="35sp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_marginTop="40dp"
+            android:text="1 MES"
+            android:textSize="35sp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="97dp"
+            android:layout_marginTop="30dp"
+            android:text="2 MES"
+            android:textSize="35sp" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="93dp"
+            android:layout_marginTop="30dp"
+            android:text="3 MES"
+            android:textSize="35sp" />
+
+    </LinearLayout>
+</LinearLayout>

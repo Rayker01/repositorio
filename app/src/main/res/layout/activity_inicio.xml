@@ -10,7 +10,6 @@
         android:layout_width="391dp"
         android:layout_height="783dp"
         android:orientation="vertical"
-        android:background="@drawable/fondoinicio2"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp">
 
@@ -20,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
             android:text="BIENVENIDO"
-            android:textColor="@android:color/background_light"
+            android:textColor="@android:color/background_dark"
             android:textSize="68sp" />
 
         <ImageView
@@ -37,7 +36,7 @@
             android:layout_height="29dp"
             android:layout_marginLeft="160dp"
             android:text="INICIAR"
-            android:textColor="@android:color/background_light"
+            android:textColor="@android:color/background_dark"
             android:textSize="20sp" />
     </LinearLayout>
 </LinearLayout>

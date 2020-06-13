@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".quipre"></activity>
+        <activity android:name=".priobc"></activity>
+        <activity android:name=".quipre" />
         <activity android:name=".cuarpre" />
         <activity android:name=".terpre" />
         <activity android:name=".segpre" />

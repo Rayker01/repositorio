@@ -14,56 +14,19 @@
         tools:layout_editor_absoluteY="1dp">
 
         <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="RESPONDA LA SIGUIENTE PREGUNTA:"
-            android:textColor="@android:color/background_dark"
-            android:textSize="27sp" />
-
-        <TextView
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1) Resuelva la siguiente suma:"
+            android:text="1) Algunos meses tiene 31 dias, otros tienen 30. Cuantos meses tienen 28 dias?:"
             android:textColor="@android:color/background_dark"
-            android:textSize="27sp" />
-
-        <TextView
-            android:id="@+id/textView11"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="2+4+6="
-            android:textColor="@android:color/background_dark"
-            android:textSize="27sp" />
+            android:textSize="50sp" />
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="12"
-            android:textSize="35sp" />
-
-        <Button
-            android:id="@+id/button8"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="16"
-            android:textSize="35sp" />
-
-        <Button
-            android:id="@+id/button9"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="8"
-            android:textSize="35sp" />
-
-        <Button
-            android:id="@+id/button10"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="11"
-            android:textSize="35sp" />
+            android:text="Responder"
+            android:textSize="30sp" />
 
     </LinearLayout>
 </LinearLayout>
